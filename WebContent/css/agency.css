@@ -258,8 +258,8 @@ header .intro-text .intro-heading {
 }
 @media (min-width: 768px) {
   header .intro-text {
-    padding-top: 300px;
-    padding-bottom: 200px;
+    padding-top: 150px;
+    padding-bottom: 100px;
   }
   header .intro-text .intro-lead-in {
     font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -431,6 +431,7 @@ section h3.section-subheading {
   margin-top: 12px;
   line-height: 14px;
 }
+
 .timeline > li.timeline-inverted > .timeline-panel {
   float: right;
   text-align: left;
@@ -533,6 +534,9 @@ section h3.section-subheading {
     padding: 0 100px 20px 20px;
   }
 }
+
+<!-- Parei aqui!-->
+
 .team-member {
   text-align: center;
   margin-bottom: 50px;
